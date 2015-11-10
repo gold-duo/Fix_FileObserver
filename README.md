@@ -1,6 +1,6 @@
 Solve the Android framework FileObserver's question:
 1, no callbacks as WeakReference onEvent;
-2, use FileObserver thread does not exit.
+2, Finish using FileObserver, but this thread does not exit.
 
 
 **Authors**
