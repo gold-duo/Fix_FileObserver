@@ -9,9 +9,7 @@ Solve the Android framework FileObserver's question:
    add dependencies ***compile 'com.github.droidwolf:libfileobserver:0.0.1-SNAPSHOT'***
 
 **Authors**
-
 droidwolf [droidwolf2006@gmail.com](mailto:droidwolf2006@gmail.com "droidwolf2006@gmail.com")
-
 
 **License**
 
